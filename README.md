@@ -2,7 +2,7 @@
 
 Software Engineer (Python / C / C++) | Real-time systems | Embedded & Robotics 
 Koszalin, Poland
-📧 mbalauneu@gmail.com
+mbalauneu@gmail.com
 
 ## About me
 Jestem studentem Informatyki (inż.) i rozwijam się jako Software Engineer. Mam doświadczenie w budowie usług backendowych oraz systemów przetwarzających dane w czasie rzeczywistym (async, komunikacja sieciowa, architektura usług). Aktualnie kieruję się w stronę robotyki i/lub embedded.
